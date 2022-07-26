@@ -109,6 +109,10 @@ footer {
         max-width: 400px;
     }
 
+    .resume {
+        font-size: .7rem;
+    }
+
     .link-container {
         flex-flow: column wrap;
         gap: 10px;
